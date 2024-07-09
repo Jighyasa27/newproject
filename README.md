@@ -1,4 +1,4 @@
 # newproject
 This is my first git repository.
 <br>
-Author - Jighyasa Negi
+Author - Jighyasa Negi(college student)
